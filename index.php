@@ -40,6 +40,9 @@
 								<li class="menu__item">
 									<a href="#contact" class="menu__link">Kontak</a>
 								</li>
+								<li class="menu__item">
+									<a href="login.php" class="menu__link">Logout</a>
+								</li>
 							</ul>
 						</nav>
 					</div>
@@ -83,71 +86,71 @@
 							<div class="our-menu__image">
 								<img src="img/dm.png" alt="" class="our-menu__img img">
 							</div>
-							<div class="our-menu__name">86 Diamonds</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%2086dm,%20boleh%20minta%20paymentnya?%20">Rp. 22.000</a></div>
+							<div class="our-menu__name">86 Diamond</div>
+							<div class="our-menu__price"><a href="transaksi/product1.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/dm.png" alt="" class="our-menu__img img">
 							</div>
-							<div class="our-menu__name">172 Diamonds</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20172dm,%20boleh%20minta%20paymentnya?%20">Rp. 43.500</a></div>
+							<div class="our-menu__name">172 Diamond</div>
+							<div class="our-menu__price"><a href="transaksi/product2.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/dm.png" alt="" class="our-menu__img img">
 							</div>
-							<div class="our-menu__name">257 Diamonds</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20257dm,%20boleh%20minta%20paymentnya?%20">Rp. 65.000</a></div>
+							<div class="our-menu__name">257 Diamond</div>
+							<div class="our-menu__price"><a href="transaksi/product3.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/dm.png" alt="" class="our-menu__img img">
 							</div>
-							<div class="our-menu__name">344 Diamonds</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20344dm,%20boleh%20minta%20paymentnya?%20">Rp. 86.000</a></div>
+							<div class="our-menu__name">344 Diamond</div>
+							<div class="our-menu__price"><a href="transaksi/product4.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/dm.png" alt="" class="our-menu__img img">
 							</div>
 							<div class="our-menu__name">429 Diamonds</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20429dm,%20boleh%20minta%20paymentnya?%20">Rp. 109.000</a></div>
+							<div class="our-menu__price"><a href="transaksi/product5.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/dm.png" alt="" class="our-menu__img img">
 							</div>
 							<div class="our-menu__name">514 Diamonds</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20514dm,%20boleh%20minta%20paymentnya?%20">Rp. 130.000</a></div>
+							<div class="our-menu__price"><a href="transaksi/product6.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/dm.png" alt="" class="our-menu__img img">
 							</div>
 							<div class="our-menu__name">600 Diamonds</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20600dm,%20boleh%20minta%20paymentnya?%20">Rp. 155.000</a></div>
+							<div class="our-menu__price"><a href="transaksi/product7.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/sl.png" alt="" class="our-menu__img img">
 							</div>
 							<div class="our-menu__name">Starlight Member</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20Starlight%20Member,%20boleh%20minta%20paymentnya?%20">Rp. 50.000</a></div>
+							<div class="our-menu__price"><a href="transaksi/product8.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/sl.png" alt="" class="our-menu__img img">
 							</div>
 							<div class="our-menu__name">Starlight Member Premium</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20Starlight%20Member%20Premium,%20boleh%20minta%20paymentnya?%20">Rp. 80.000</a></div>
+							<div class="our-menu__price"><a href="transaksi/product9.php">Beli Disini</a></div>
 						</div>
 						<div class="our-menu__item">
 							<div class="our-menu__image">
 								<img src="img/wdp.png" alt="" class="our-menu__img img">
 							</div>
 							<div class="our-menu__name">Weakly Diamond Pass</div>
-							<div class="our-menu__price"><a href="https://api.whatsapp.com/send?phone=6287825484134&text=Saya%20mau%20beli%20Weakly%20Diamond%20Pass,%20boleh%20minta%20paymentnya?%20">Rp. 27.000</a></div>
+							<div class="our-menu__price"><a href="transaksi/product10.php">Beli Disini</a></div>
 						</div>
 					</div>
 				</div>
@@ -158,7 +161,7 @@
 					<div class="delivering__inner">
 						<div class="delivering__items">
 							<h2 class="delivering__title">Kenapa harus<br>Fresieshop?</h2>
-							<p class="delivering__subtitle text">Platform Top Up Game Termurah di Indonesia. Penuhi Kebutuhan Gaming Mu Bersama Frsieshop. Store Specialist Game Mobile Legends No.1 Murah , Aman , Terpercaya Dan Legal 100% (Open 24 Jam).</p>
+							<p class="delivering__subtitle text">Platform Top Up Game Termurah di Indonesia. Penuhi Kebutuhan Gaming Mu Bersama Fresieshop. Store Specialist Game Mobile Legends No.1 Murah , Aman , Terpercaya Dan Legal 100% (Open 24 Jam).</p>
 						</div>
 							<div class="delivering__image">
 								<img src="img/ttgkami.png" alt="delivering img" class="delivering__img img">
